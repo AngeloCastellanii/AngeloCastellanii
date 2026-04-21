@@ -11,8 +11,8 @@
 ```yaml
 profile:
   name: Angelo Castellani
-  education: Ingeniería en Computación, Universidad Rafael Urdaneta (URU)
-  current_status: Arquitecto de soluciones y Full-Stack Developer en proyectos personales
+  education: Estudiante de Ingeniería en Computación, Universidad Rafael Urdaneta (URU)
+  current_status: Arquitecto de software y soluciones, Full-Stack Developer en proyectos personales
 
 tech_stack:
   languages: [JavaScript, Python, Java, C/C++, C#, HTML/CSS]
@@ -21,18 +21,14 @@ tech_stack:
   data_modeling: [PostgreSQL, DBschema, dbdiagram.io]
   tools: [VS Code, Cursor, Eclipse, Figma, Antigravity, Stitch, Pomelli]
 
-projects:
+Projects:
+
   Stravagante_Platform:
     role: Full-Stack Developer & Founder
     stack: Node.js, React, OCI, Cloudflare
     info: Arquitectura e-commerce contenerizada y optimizada para seguridad.
-    
-  Studio_3mf:
-    role: Technical Lead & Founder
-    stack: K1C Hardware, PETG Processing
-    info: Ejecución técnica y modelado para negocio de impresión 3D.
-    
+  
   Gym_Init:
-    role: Lead Developer
+    role: Full-Stack Developer
     stack: Full-Stack
     info: Arquitectura Core para sistemas de gestión en el sector fitness.
