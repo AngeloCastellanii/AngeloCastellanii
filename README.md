@@ -3,13 +3,13 @@
 
 ---
 
+```diff
 + {
 +   "profile": {
 +     "name": "Angelo Castellani",
 +     "education": "Ingeniería en Computación, Universidad Rafael Urdaneta (URU)",
 +     "current_status": "Arquitecto de soluciones de software para negocios propios y desarrollo de proyectos tecnológicos independientes"
 +   },
-+   ],
 +   "technical_stack": {
 +     "languages": [
 +       "JavaScript",
