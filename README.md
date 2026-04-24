@@ -13,6 +13,7 @@ profile:
   name: Angelo Castellani
   education: Estudiante de Ingeniería en Computación, Universidad Rafael Urdaneta (URU)
   current_status: Arquitecto de software y soluciones, Full-Stack Developer en proyectos personales
+  about me: Siempre dispuesto a solucionar problemas y aprender cada dia
 
 tech_stack:
   languages: [JavaScript, Python, Java, C/C++, C#, HTML/CSS]
