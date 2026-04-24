@@ -31,5 +31,5 @@ Projects:
   
   Gyminit-ashen.vercel.app:
     role: Full-Stack Developer
-    stack: Full-Stack
+    stack: Html/Css, JavaScript, Vercel
     info: Arquitectura Core para sistemas de gestión en el sector fitness.
