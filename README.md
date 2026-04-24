@@ -28,7 +28,7 @@ Projects:
     stack: Node.js, React, OCI, Cloudflare
     info: Arquitectura e-commerce contenerizada y optimizada para seguridad.
   
-  Gym_Init:
+  Gyminit-ashen.vercel.app:
     role: Full-Stack Developer
     stack: Full-Stack
     info: Arquitectura Core para sistemas de gestión en el sector fitness.
