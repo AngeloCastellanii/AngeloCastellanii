@@ -23,7 +23,7 @@ tech_stack:
 
 Projects:
 
-  Stravagante_Platform:
+  Stravagantewatches.com:
     role: Full-Stack Developer & Founder
     stack: Node.js, React, OCI, Cloudflare
     info: Arquitectura e-commerce contenerizada y optimizada para seguridad.
