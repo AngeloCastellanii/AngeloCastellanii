@@ -16,8 +16,8 @@ profile:
   about me: Siempre dispuesto a solucionar problemas y aprender cada dia
 
 tech_stack:
-  languages: [JavaScript, Python, Java, C/C++, C#, HTML/CSS]
-  core_frameworks: [React, Next.js, Node.js]
+  languages: [JavaScript, Python, Java, Rust, C/C++, C#, HTML/CSS]
+  core_frameworks: [React, Next.js, Node.js, Slice.js]
   infrastructure: [Docker, Oracle Cloud (OCI), Cloudflare, Git]
   data_modeling: [PostgreSQL, DBschema, dbdiagram.io]
   tools: [VS Code, Cursor, Eclipse, Figma, Antigravity, Stitch, Pomelli]
