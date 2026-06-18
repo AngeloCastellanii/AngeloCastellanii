@@ -23,7 +23,7 @@ tech_stack:
   tools: [VS Code, Cursor, Eclipse, Figma, Antigravity, Stitch, Pomelli]
 
 Projects:
-  [Stravagantewatches]
+
   Stravagantewatches.com:
     role: Full-Stack Developer & Founder
     stack: Node.js, React, OCI, Cloudflare
