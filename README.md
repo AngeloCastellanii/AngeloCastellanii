@@ -23,13 +23,20 @@ tech_stack:
   tools: [VS Code, Cursor, Eclipse, Figma, Antigravity, Stitch, Pomelli]
 
 Projects:
-
+  [Stravagantewatches]
   Stravagantewatches.com:
     role: Full-Stack Developer & Founder
     stack: Node.js, React, OCI, Cloudflare
     info: Arquitectura e-commerce contenerizada y optimizada para seguridad.
-  
+  [Gyminit]
   Gyminit-ashen.vercel.app:
     role: Full-Stack Developer
     stack: Html/Css, JavaScript, Vercel
     info: Arquitectura Core para sistemas de gestión en el sector fitness.
+
+  [Life Control]
+  lifecontrol-a5i4.onrender.com
+  role: Frontend Developer & UI Architect
+  stack: Slice.js HTML/CSS, JavaScript, Render
+  info: "Aplicación web centralizada para la gestión de tareas, actividades,productividad, finanzas y organización personal."
+
