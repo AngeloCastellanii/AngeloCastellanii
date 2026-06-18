@@ -24,10 +24,12 @@ tech_stack:
 
 Projects:
 
+[Stravagantewatches]
   Stravagantewatches.com:
     role: Full-Stack Developer & Founder
     stack: Node.js, React, OCI, Cloudflare
     info: Arquitectura e-commerce contenerizada y optimizada para seguridad.
+
   [Gyminit]
   Gyminit-ashen.vercel.app:
     role: Full-Stack Developer
