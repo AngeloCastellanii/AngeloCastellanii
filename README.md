@@ -25,7 +25,7 @@ tech_stack:
 portafolio:
   url: https://github.com/AngeloCastellanii/Landing-Personal
 
-Projects:
+My favorite Projects:
 [Stravagante Watches]
   www.stravagantewatches.com:
     role: Full-Stack Developer & Founder
