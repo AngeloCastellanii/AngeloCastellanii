@@ -32,6 +32,12 @@ My favorite Projects:
     stack: Node.js, React, OCI, Cloudflare
     info: E-commerce de relojes de lujo con diseño editorial y experiencia de compra inmersiva.
 
+[Alzer Import]
+www.alzerimport.com
+role: Full-Stack Developer
+stack: Next.js, React, Node.js, PostgreSQL, Docker, OCI, Cloudflare
+info: Catálogo e-commerce de importación con inventario, pedidos y precios en bs.
+
 [Life Control]
   life-control-ten.vercel.app:
     role: Frontend Developer & UI Architect
