@@ -22,7 +22,7 @@ tech_stack:
   data_modeling: [PostgreSQL, DBschema, dbdiagram.io]
   tools: [VS Code, Cursor, Eclipse, Figma, Antigravity, Stitch, Pomelli,Dokploy]
 
-portafolio:
+PORTAFOLIO:
   url: https://github.com/AngeloCastellanii/Landing-Personal
 
 My favorite Projects:
