@@ -18,7 +18,7 @@ profile:
 tech_stack:
   languages: [JavaScript, Typescript, Python, Java, Rust, C/C++, C#, HTML/CSS]
   core_frameworks: [React, Next.js, Node.js, Slice.js, Angular, Vue, Express, NestJS]
-  infrastructure: [Docker, Oracle Cloud (OCI), Cloudflare, Git]
+  infrastructure: [Docker, Oracle Cloud (OCI), Cloudflare, Git, Vercel, Render]
   data_modeling: [PostgreSQL, DBschema, dbdiagram.io]
   tools: [VS Code, Cursor, Eclipse, Figma, Antigravity, Stitch, Pomelli,Dokploy]
 
