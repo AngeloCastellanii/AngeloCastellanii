@@ -2,7 +2,7 @@
 
 # Angelo Castellani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Software+Architecture;Full-Stack+Development;Building+Tech+Ventures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Development;Building+Tech+Ventures)](https://git.io/typing-svg)
 
 </div>
 
